@@ -8,6 +8,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - Theme toggle (Light/Dark mode)
 - Bun as JavaScript runtime
 
+## Live Demo
+Check out the live demo of this project: https://theme-toggle-next-themes.vercel.app/
+
 ## Getting Started
 
 First, ensure you have [Bun](https://bun.sh) installed on your system.
